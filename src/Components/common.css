@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.main div:hover .look{
+  display: inline-block;
+}
+.main div p,img{
+    cursor: pointer;
+}
+.main div:hover{
+    transform:translateY(-3px);
+    transition: all .2s ease-in-out;
+}
+.firstslider p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.buttom p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.mid div:hover .look{
+    display: inline-block;
+  }
+  .mid div p,img{
+      cursor: pointer;
+  }
+  .btn{
+    cursor: pointer;
+  }
+  .btn:hover{
+    border-color: darkgrey;
+  }
+  .pos1 div img,h1,p{
+    cursor: pointer;
+  }
+  .pos1 div p:hover{
+    text-decoration: underline;
+  }
+  .catSec div .ct:hover{
+    transform:translateY(-4px);
+    transition: all .1s ease-in-out;
+  }
+  .card div:hover .dis{
+    display: inline-block;
+    cursor: pointer;
+  }
+  .yahi{
+    display: grid;
+    grid-template-columns: repeat(4,300px);
+    grid-row-gap: 9px;
+}
+ 
