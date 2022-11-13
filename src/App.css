@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+.buttom p{
+  cursor: pointer;
+}
+p:hover{
+  text-decoration:underline;
+} */
