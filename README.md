@@ -1,7 +1,5 @@
 <h1 align="center">Sephora.com Clone</h1>
 
-<h3 align="center">It's a ReactJS E-commerce web application with all the major functionalities</h3>
-
 <br />
 
 <h2 align="center">🖥️ Tech Stack</h2>
@@ -54,14 +52,7 @@ Sephora.com Clone is ReactJS e-commerce web application that allows you to buy c
 <br />
 
 
-## Glimpses of Sephora-Clone 🙈 :
-
-
-https://ibb.co/jJcTYyY
-https://ibb.co/6m2wfgK
-https://ibb.co/fHG6b7c
-https://ibb.co/VSGTqwq
-https://ibb.co/NFjsJvN
+## Glimpses of Sephora-Clone :
 
 <table>
   <tr>
