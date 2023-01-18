@@ -53,7 +53,6 @@ Sephora.com Clone is ReactJS e-commerce web application that allows you to buy c
 
 
 ## Glimpses of Sephora-Clone :
-
 <table>
   <tr>
     <td><img src="https://i.ibb.co/DrxtF9F/sephora1.png"  alt="home" /></td>
