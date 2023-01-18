@@ -67,21 +67,23 @@ https://ibb.co/NFjsJvN
   <tr>
     <td><img src="https://i.ibb.co/DrxtF9F/sephora1.png"  alt="home" /></td>
   </tr>
+  <br/>
   <tr>
     <td><img src="https://i.ibb.co/c1P37DW/sephora2.png"  alt="" /></td>
   </tr>
-  <tr>
-    <td><img src="https://i.ibb.co/DgKv24V/Capture11.png" height="300px" alt="" /></td>
-  </tr>
+  <br/>
   <tr>
     <td><img src="https://i.ibb.co/sqJxhrB/sephora3.png"  alt="" /></td>
   </tr>
+  <br/>
    <tr>
     <td><img src="https://i.ibb.co/G2DR5H5/sephora4.png"   alt="" /></td>
   </tr>
+  <br/>
   <tr>
     <td><img src="https://i.ibb.co/Cw7zYc9/sephora5.png"  alt="" /></td>
   </tr>
+  <br/>
 
 </table>
 
